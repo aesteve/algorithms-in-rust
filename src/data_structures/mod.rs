@@ -4,6 +4,7 @@ mod binary_search_tree;
 mod fenwick_tree;
 mod graph;
 mod heap;
+mod interval_tree;
 mod linked_list;
 pub mod probabilistic;
 mod queue;
