@@ -3,9 +3,11 @@ mod fisher_yates_shuffle;
 mod hanoi;
 mod huffman_encoding;
 mod kmeans;
+mod kmeans_revisited;
 mod mex;
 mod nqueens;
 mod two_sum;
+
 pub use self::convex_hull::convex_hull_graham;
 pub use self::fisher_yates_shuffle::fisher_yates_shuffle;
 pub use self::hanoi::hanoi;
